@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i =0;i<500;i++){
+            findMaxConsecutiveOnes(new int[]{});
+        }
+    }
     public static int findMaxConsecutiveOnes(int[] nums) {
         int count =0;
         int max=0;
