@@ -8,6 +8,7 @@ class Solution {
         {
             res[0]=i;
             res[1]=map.get(target-nums[i]);
+            return res;
         }
         else
         {
