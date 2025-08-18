@@ -9,6 +9,7 @@ class Solution {
         {
             num[0]=i;
             num[1]=map.get(comp);
+            return num;
         }
         else
         {
