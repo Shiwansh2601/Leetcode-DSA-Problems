@@ -4,9 +4,10 @@ class Solution {
         int max=nums[0];
         if(nums.length==1)
         return nums[0];
-        for(int i=0;i<nums.length;i++)
+
+        for(int val:nums)
         {
-            sum+=nums[i];
+            sum+=val;
             max=Math.max(sum,max);
             if(sum<0)
             sum=0;
