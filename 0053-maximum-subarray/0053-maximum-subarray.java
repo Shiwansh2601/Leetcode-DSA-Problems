@@ -9,7 +9,7 @@ class Solution {
         for(int val:nums)
         {
             sum+=val;
-            maxsum=Math.max(sum,max);
+            maxsum=Math.max(sum,maxsum);
             if(sum<0)
             sum=0;
         }
