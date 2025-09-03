@@ -5,7 +5,11 @@ class Solution {
          long totalhour=0L;
         for(int i=0;i<piles.length;i++)
         {
-            totalhour +=(piles[i]+mid-1)/mid;
+            totalhour +=(piles[i])/mid;
+            if(piles[i]%mid!=0)
+            {
+                totalhour++;
+            }
         }
         
         return totalhour<=h;
