@@ -6,7 +6,8 @@ class Solution {
         map.put(0,1);
         for(int i=0;i<nums.length;i++)
         {  csum+=nums[i];
-            int comp=((csum%k)+k)%k;
+            int comp = ((csum % k) + k) % k;
+
             if(map.containsKey(comp))
             count+=map.get(comp);
 
