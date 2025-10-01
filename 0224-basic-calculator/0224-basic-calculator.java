@@ -7,9 +7,9 @@ class Solution {
         int i=0;
         while(i<s.length())
         {   
+          char c=s.charAt(i);
 
-
-            if(s.charAt(i)=='(')
+            if(c=='(')
             {
                 stk.push(res);
                 stk.push(sign);
@@ -17,7 +17,7 @@ class Solution {
                 sign=1;
             }
             
-            if(s.charAt(i)==')')
+            if(c==')')
             {    
                 res=res+(num*sign);
                 num=0;
@@ -25,18 +25,18 @@ class Solution {
                 int preres=stk.pop();
                 res=preres+(res*presign);
             }
-            if(Character.isDigit(s.charAt(i)))
+            if(Character.isDigit(c))
             {
                 num = num * 10 + (s.charAt(i) - '0');
             }
-            if(s.charAt(i)=='+')
+            if(c=='+')
             {
                 res=res+(num*sign);
                 num=0;
                 sign=1;
             }
 
-            if(s.charAt(i)=='-')
+            if(c=='-')
             {   
 
                  res=res+(num*sign);
