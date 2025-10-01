@@ -38,7 +38,9 @@ class Solution {
                 int preres = stk.pop();
                 res = preres + (res * presign);
             }
-
+           else if (c == ' ') {
+                // just skip spaces
+            }
             i++;
         }
 
