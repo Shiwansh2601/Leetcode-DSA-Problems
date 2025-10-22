@@ -20,9 +20,9 @@ class Solution {
         int j=0;
         while(i<n && j<m)
         {
-            if(isprime(nums[i][j]))
+            if(isprime(nums[i][j])&&nums[i][j]>max)
             {
-                max=Math.max(max,nums[i][j]);
+                max=nums[i][j];
             }
             i++;
             j++;
@@ -31,9 +31,9 @@ class Solution {
         j=m-1;
          while(i<n && j>=0)
         {
-            if(isprime(nums[i][j]))
+            if(isprime(nums[i][j])&&nums[i][j]>max)
             {
-                max=Math.max(max,nums[i][j]);
+                max=nums[i][j];
             }
             i++;
             j--;
