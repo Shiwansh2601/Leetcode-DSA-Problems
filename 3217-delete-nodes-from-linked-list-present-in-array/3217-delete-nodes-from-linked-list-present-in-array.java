@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        
+         if(head == null) return null;
         HashSet<Integer>set=new HashSet<>();
         for(int num:nums)
         {
