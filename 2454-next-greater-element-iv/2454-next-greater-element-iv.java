@@ -1,12 +1,13 @@
 class Solution {
     public int[] secondGreaterElement(int[] nums) {
+        int n=nums.length;
         Stack<Integer>stk1=new Stack<>();
         Stack<Integer>stk2=new Stack<>();
         Stack<Integer>temp=new Stack<>();
         int[] res=new int[nums.length];
         Arrays.fill(res,-1);
 
-        for(int i=0;i<nums.length;i++)
+        for(int i=0;i<n;i++)
         {
             while(!stk2.isEmpty() && nums[stk2.peek()]<nums[i])
             {
