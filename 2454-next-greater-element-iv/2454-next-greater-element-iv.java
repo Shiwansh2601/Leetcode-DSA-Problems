@@ -9,11 +9,12 @@ class Solution {
 
         for(int i=0;i<n;i++)
         {
-            while(!stk2.isEmpty() && nums[stk2.peek()]<nums[i])
-                res[stk2.pop()]=nums[i];
+            int curr=nums[i];
+            while(!stk2.isEmpty() && nums[stk2.peek()]<curr)
+                res[stk2.pop()]=curr;
             
 
-            while(!stk1.isEmpty() && nums[stk1.peek()]<nums[i] )
+            while(!stk1.isEmpty() && nums[stk1.peek()]<curr )
                 temp.push(stk1.pop());
             
 
