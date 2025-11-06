@@ -5,7 +5,6 @@ class Solution {
         Deque<Integer> dq = new ArrayDeque<>();
     
         int i=0;
-        int K=0;
         int indx=0;
         while(i<n)
         {
