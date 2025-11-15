@@ -4,7 +4,6 @@ class Solution {
     {
         if(i==arr.length)
         {
-            if(!res.contains(ans))
             res.add(new ArrayList<>(ans));
 
             return;
@@ -13,6 +12,11 @@ class Solution {
         ans.add(arr[i]);
         find(arr,ans,i+1);
         ans.remove(ans.size()-1);
+
+        while (i + 1 < arr.length && arr[i] == arr[i + 1]) {
+            i++;
+        }
+
         find(arr,ans,i+1);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
