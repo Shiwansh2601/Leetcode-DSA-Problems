@@ -24,16 +24,24 @@ class Solution {
             return list2;
         }
      }
+     public ListNode mergesort(ListNode[] lists,int s,int e)
+     {
+          if(s==e)
+          return lists[s];
+
+          int mid=s+(e-s)/2;
+
+         ListNode l1= mergesort(lists,s,mid);
+         ListNode l2= mergesort(lists,mid+1,e);
+
+         return mergeTwoLists(l1,l2);
+
+     }
       public ListNode mergeKLists(ListNode[] lists) {
 
          if (lists ==null||lists.length==0) 
          return null;
-        ListNode res=null;
-        for(int i=0;i<lists.length;i++)
-        {
-            res=mergeTwoLists(res,lists[i]);
-            
-        }
+       ListNode res=mergesort(lists,0,lists.length-1);
 
        return res;
     }
