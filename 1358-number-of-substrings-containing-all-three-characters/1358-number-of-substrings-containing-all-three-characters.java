@@ -5,15 +5,16 @@ class Solution {
         int i=0;
         int j=0;
         int n=s.length()-1;
+        char[] str=s.toCharArray();
         while(j<=n)
         {
-            char ch=s.charAt(j);
+            char ch=str[j];
             map.put(ch,map.getOrDefault(ch,0)+1);
 
             while(map.size()==3)
             {
                 count+=n-j+1;
-                char c=s.charAt(i);
+                char c=str[i];
                  map.put(c,map.getOrDefault(c,0)-1);
                  if(map.get(c)==0)
                  map.remove(c);
