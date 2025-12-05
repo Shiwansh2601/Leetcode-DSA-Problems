@@ -11,11 +11,13 @@ class Solution {
        
        if(s>n)
        return;
-       
-        ans.add(s);
-        solve(s+1,k-1,n,ans);
-        ans.remove(ans.size()-1);
-        solve(s+1,k,n,ans);
+
+        for(int i=s;i<=n;i++)
+        {
+            ans.add(i);
+            solve(i+1,k-1,n,ans);
+            ans.remove(ans.size()-1);
+        }
     }
     public List<List<Integer>> combine(int n, int k) {
         
