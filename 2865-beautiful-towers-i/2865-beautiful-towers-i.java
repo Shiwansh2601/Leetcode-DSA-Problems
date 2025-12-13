@@ -1,6 +1,6 @@
 class Solution {
     public long maximumSumOfHeights(int[] heights) {
-        long ans=Long.MIN_VALUE;
+        long ans=0L;
 
         int k=0;
         while(k<heights.length)
@@ -20,7 +20,8 @@ class Solution {
                 cap=Math.min(cap,heights[i]);
                 sum+=cap;
             }
-            ans=Math.max(ans,sum);
+            if(sum>ans)
+            ans=sum;
             k++;
         }
         
