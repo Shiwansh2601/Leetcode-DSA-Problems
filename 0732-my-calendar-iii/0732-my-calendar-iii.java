@@ -10,9 +10,9 @@ class MyCalendarThree {
        map.put(startTime,map.getOrDefault(startTime,0)+1);
        map.put(endTime,map.getOrDefault(endTime,0)-1);
        int count=0;
-       for(int key:map.keySet())
+       for(int key:map.values())
        {
-        count+=map.get(key);
+        count+=key;
         res=Math.max(res,count);
        }
 
