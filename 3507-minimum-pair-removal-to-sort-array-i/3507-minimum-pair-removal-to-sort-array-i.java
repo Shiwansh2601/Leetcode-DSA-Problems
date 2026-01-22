@@ -13,20 +13,12 @@ class Solution {
          return flag;
     }
     public int minimumPairRemoval(int[] nums) {
-        boolean check=false;
-        for(int i=0;i<nums.length-1;i++)
-        {
-            if(nums[i]>nums[i+1])
-            check=true;
-        }
-        if(check)
-        {
            LinkedList<Integer> list= new LinkedList<>();
            for(int i=0;i<nums.length;i++)
            {
             list.add(nums[i]);
            } 
-        int count=0;
+           int count=0;
         while(sortcheck(list))
         {
             int i=-1;
@@ -47,10 +39,5 @@ class Solution {
         }
 
        return count;
-  
-
-        }
-        else
-        return 0;
     }
 }
