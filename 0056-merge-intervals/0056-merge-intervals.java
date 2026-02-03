@@ -7,53 +7,44 @@ class Solution {
 
         if(n==1)
         return intervals;
-        if(intervals[0][1]>=intervals[1][0])
-        {
-             int a=intervals[0][0];
-              int b=Math.max(intervals[1][1],intervals[0][1]);
-              ArrayList<Integer>pair=new ArrayList<>();
-              pair.add(a);
-              pair.add(b);
-              list.add(pair);
-        }
-        else
-        {
-            int a=intervals[0][0];
-              int b=intervals[0][1];
-              ArrayList<Integer>pair=new ArrayList<>();
-              pair.add(a);
-              pair.add(b);
-              list.add(pair);
+        
+        int num1=intervals[0][0];
+        int num2=intervals[0][1];
+        ArrayList<Integer>pair1=new ArrayList<>();
+        pair1.add(num1);
+        pair1.add(num2);
+        list.add(pair1);
 
-              int a1=intervals[1][0];
-              int b1=intervals[1][1];
-              ArrayList<Integer>pair1=new ArrayList<>();
-              pair1.add(a1);
-              pair1.add(b1);
-              list.add(pair1);
+        for(int i=1;i<n;i++)
+        {
+            int s=list.size()-1;
+
+            int a1=list.get(s).get(0);
+            int a2=list.get(s).get(1);
+
+            int b1=intervals[i][0];
+            int b2=intervals[i][1];
+            
+            if(a2>=b1)
+            {
+                list.remove(s);
+                ArrayList<Integer>pair=new ArrayList<>();
+                pair.add(a1);
+                pair.add(Math.max(a2,b2));
+                list.add(pair);
+
+            }
+            else
+            {
+                ArrayList<Integer>pair=new ArrayList<>();
+                pair.add(b1);
+                pair.add(b2);
+                list.add(pair);
+            }
+
         }
         
-        for(int i=2;i<n;i++)
-        {
-           if(intervals[i-1][1]>=intervals[i][0])
-           {
-              int a=intervals[i-1][0];
-              int b=Math.max(intervals[i-1][1],intervals[i][1]);
-              ArrayList<Integer>pair=new ArrayList<>();
-              pair.add(a);
-              pair.add(b);
-              list.add(pair);
-           }
-           else
-           {
-               int a=intervals[i][0];
-              int b=intervals[i][1];
-              ArrayList<Integer>pair=new ArrayList<>();
-              pair.add(a);
-              pair.add(b);
-              list.add(pair);
-           }
-        }
+
 
         int row=list.size();
         int col=2;
