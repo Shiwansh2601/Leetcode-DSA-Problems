@@ -1,28 +1,32 @@
 class Solution {
+    
     List<List<Integer>>res=new ArrayList<>();
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        solve(0,target,new ArrayList<>(),candidates);
-        return res;
-    }
+    public void find(int i, int[] arr, List<Integer> pair, int sum, int k) {
 
-    public void solve(int i,int target,ArrayList<Integer>list,int[] nums)
-    {
-        if(target==0)
-        {
-            res.add(new ArrayList<>(list));
+        if (sum == k) {
+             res.add(new ArrayList<>(pair));
+             
             return;
         }
-        if(i==nums.length || target<0)
-        return;
 
-        list.add(nums[i]);
-        solve(i+1,target-nums[i],list,nums);
+        if (i == arr.length || sum > k) {
+            return;
+        }
+        
+    
+        pair.add(arr[i]);
+        find(i+1, arr, pair, sum + arr[i], k);   
+        
+        while(i<arr.length-1 && arr[i]==arr[i+1])
+         i++;
+        pair.remove(pair.size() - 1);  // backtracking 
+        find(i + 1, arr, pair, sum, k);
+    }
 
-        list.remove(list.size()-1);
-        while(i<nums.length-1 && nums[i]==nums[i+1])
-        i++;
-        solve(i+1,target,list,nums);
-
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        Arrays.sort(candidates);
+         List<Integer> pair = new ArrayList<>();
+        find(0, candidates, pair, 0, target);
+        return res;
     }
 }
