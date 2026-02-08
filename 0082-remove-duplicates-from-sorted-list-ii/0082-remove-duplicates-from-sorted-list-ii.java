@@ -39,7 +39,8 @@ class Solution {
                 }
 
                 slow=fast;
-                fast=fast.next;
+                 if (fast != null)
+                fast = fast.next;
 
         }
 
