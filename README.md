@@ -89,9 +89,14 @@ Suggestions and contributions are always welcome!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
 <!---LeetCode Topics End-->
