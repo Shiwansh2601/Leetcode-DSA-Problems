@@ -78,18 +78,21 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -114,4 +117,5 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
