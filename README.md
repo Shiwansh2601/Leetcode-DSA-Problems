@@ -80,6 +80,7 @@ Suggestions and contributions are always welcome!
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Suggestions and contributions are always welcome!
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ Suggestions and contributions are always welcome!
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,5 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
