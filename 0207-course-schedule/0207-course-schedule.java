@@ -5,42 +5,38 @@ class Solution {
         {
             graph.add(new ArrayList<>());
         }
+        int[] indegree=new int[numCourses];
         for(int i=0;i<prerequisites.length;i++)
         {
             graph.get(prerequisites[i][1]).add(prerequisites[i][0]);
+            indegree[prerequisites[i][0]]++;
         }
+       
 
-        boolean[] vis=new boolean[numCourses];
-        boolean[] st=new boolean[numCourses];
+       Queue<Integer>q=new LinkedList<>();
         for(int i=0;i<numCourses;i++)
         {
-            if(!vis[i])
+            if(indegree[i]==0)
+            q.add(i);
+            
+        }
+        ArrayList<Integer>ans=new ArrayList<>();
+        while(!q.isEmpty()){
+            
+            int curr=q.poll();
+            ans.add(curr);
+            for(int i=0;i<graph.get(curr).size();i++)
             {
-                if(dfs(graph,vis,st,i))
-                return false;
+                int x=graph.get(curr).get(i);
+                indegree[x]--;
+                
+                if(indegree[x]==0)
+                q.add(x);
             }
         }
+       if(ans.size()!=numCourses)
+       return false;
+       else
        return true;
-    }
-
-    public boolean dfs(ArrayList<ArrayList<Integer>>graph,boolean[] vis,boolean[] st,int curr){
-        vis[curr]=true;
-        st[curr]=true;
-
-        for(int i=0;i<graph.get(curr).size();i++)
-        {
-            int x=graph.get(curr).get(i);
-
-            if(st[x])
-            return true;
-
-            else if(!vis[x])
-            {
-                if(dfs(graph,vis,st,x))
-                return true;
-            }
-        }
-
-        return st[curr]=false;
     }
 }
