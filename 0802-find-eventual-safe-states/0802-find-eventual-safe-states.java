@@ -7,18 +7,20 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             if(!vis[i])
-            dfs(graph,vis,st,ans,i);
+            dfs(graph,vis,st,i);
         }
 
-        
-         Collections.sort(ans);
+        for(int i=0;i<n;i++)
+        {
+            if(!st[i])
+            ans.add(i);
+        }
          return ans;
     }
 
-    public boolean dfs(int[][] graph,boolean[] vis,boolean[] st,List<Integer>ans,int curr){
+    public boolean dfs(int[][] graph,boolean[] vis,boolean[] st,int curr){
         vis[curr]=true;
         st[curr]=true;
-        boolean check=true;
         for(int i=0;i<graph[curr].length;i++)
         {
             int x=graph[curr][i];
@@ -27,12 +29,12 @@ class Solution {
 
             if(!vis[x])
            {
-            if( dfs(graph,vis,st,ans,x))
+            if( dfs(graph,vis,st,x))
                return true;
            }
            
         }
-        ans.add(curr);
+    
        return st[curr]=false;
         
     }
