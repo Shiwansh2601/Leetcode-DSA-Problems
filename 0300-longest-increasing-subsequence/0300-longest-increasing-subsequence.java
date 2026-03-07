@@ -1,7 +1,7 @@
 class Solution {
     
     public int lengthOfLIS(int[] nums) {
-       int[][] dp=new int[nums.length][nums.length+1];
+       int[][] dp=new int[nums.length][nums.length];
        for(int i=0;i<nums.length;i++)
        {
         Arrays.fill(dp[i],-1);
