@@ -1,33 +1,35 @@
 class Solution {
     
     public int lengthOfLIS(int[] nums) {
-       int[][] dp=new int[nums.length][nums.length];
-       for(int i=0;i<nums.length;i++)
+       int[] dp=new int[nums.length];
+       Arrays.fill(dp,-1);
+       int res=1;
+
+       for(int i=1;i<nums.length;i++)
        {
-        Arrays.fill(dp[i],-1);
+        res=Math.max(res,lisAtindx(i,nums,dp));
        }
-       return solve(-1,0,nums,dp);
+
+       return res;
     }
     
-    public int solve(int last,int indx ,int[] nums,int[][] dp)
+    public int lisAtindx(int indx ,int[] nums,int[] dp)
     {
-       if(indx==nums.length)
-       return 0;
+       if(indx==0)
+       return 1;
 
 
-      if(dp[indx][last+1]!=-1)
-      return dp[indx][last+1];
-       int take=0;
-       int skip=0;
+      if(dp[indx]!=-1)
+      return dp[indx];
 
-       if(last==-1||nums[last]<nums[indx])
+
+       int max=1;
+       for(int prev=0;prev<indx;prev++)
        {
-        take=1+solve(indx,indx+1,nums,dp);
+          if(nums[prev]<nums[indx])
+          max=Math.max(max,lisAtindx(prev,nums,dp)+1);
        }
-
-       skip=solve(last,indx+1,nums,dp);
-
-       return dp[indx][last+1]=Math.max(take,skip);
+       return dp[indx]=max;
     }
    
 }
