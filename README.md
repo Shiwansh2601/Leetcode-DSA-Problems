@@ -83,6 +83,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Suggestions and contributions are always welcome!
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Suggestions and contributions are always welcome!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -119,6 +122,7 @@ Suggestions and contributions are always welcome!
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +134,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
