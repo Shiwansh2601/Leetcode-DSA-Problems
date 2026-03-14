@@ -145,6 +145,7 @@ Suggestions and contributions are always welcome!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -166,4 +167,16 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
