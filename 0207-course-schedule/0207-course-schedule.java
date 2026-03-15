@@ -1,42 +1,37 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>>graph=new ArrayList<>();
-        for(int i=0;i<numCourses;i++)
-        {
-            graph.add(new ArrayList<>());
-        }
-        int[] indegree=new int[numCourses];
-        for(int i=0;i<prerequisites.length;i++)
-        {
-            graph.get(prerequisites[i][1]).add(prerequisites[i][0]);
-            indegree[prerequisites[i][0]]++;
-        }
-       
+        boolean[]vis =new boolean[numCourses];
+        boolean[]rec=new boolean[numCourses];
 
-       Queue<Integer>q=new LinkedList<>();
-        for(int i=0;i<numCourses;i++)
-        {
-            if(indegree[i]==0)
-            q.add(i);
-            
-        }
-        ArrayList<Integer>ans=new ArrayList<>();
-        while(!q.isEmpty()){
-            
-            int curr=q.poll();
-            ans.add(curr);
-            for(int i=0;i<graph.get(curr).size();i++)
-            {
-                int x=graph.get(curr).get(i);
-                indegree[x]--;
-                
-                if(indegree[x]==0)
-                q.add(x);
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i]){
+              if(iscycle(i,vis,rec,prerequisites)){
+                return false;
+              }
             }
         }
-       if(ans.size()!=numCourses)
-       return false;
-       else
-       return true;
+        return true;
+    }
+    public boolean iscycle(int curr, boolean[]vis, boolean[]rec,int[][] prerequisites){
+        vis[curr]=true;
+        rec[curr]=true;
+        for(int i=0;i<prerequisites.length;i++){
+            int v=prerequisites[i][0];
+            int u=prerequisites[i][1];
+
+            if(u==curr){
+                if(!vis[v]){
+                   if(iscycle(v,vis,rec,prerequisites)){
+                    return true;
+                   }
+                }
+                else if(rec[v]){
+                    return true;
+                }
+               
+            }
+        }
+        rec[curr]=false;
+        return false;
     }
 }
