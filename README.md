@@ -116,6 +116,7 @@ Suggestions and contributions are always welcome!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -207,4 +208,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
