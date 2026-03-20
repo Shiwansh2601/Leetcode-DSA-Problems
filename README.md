@@ -83,6 +83,7 @@ Suggestions and contributions are always welcome!
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -194,6 +195,7 @@ Suggestions and contributions are always welcome!
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -206,6 +208,7 @@ Suggestions and contributions are always welcome!
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
