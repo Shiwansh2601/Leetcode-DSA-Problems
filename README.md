@@ -129,6 +129,7 @@ Suggestions and contributions are always welcome!
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Suggestions and contributions are always welcome!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
