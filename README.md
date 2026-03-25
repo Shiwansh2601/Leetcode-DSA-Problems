@@ -143,6 +143,7 @@ Suggestions and contributions are always welcome!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -230,6 +231,7 @@ Suggestions and contributions are always welcome!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -238,6 +240,7 @@ Suggestions and contributions are always welcome!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -259,4 +262,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
