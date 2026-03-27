@@ -91,6 +91,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
@@ -115,6 +116,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ Suggestions and contributions are always welcome!
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -210,6 +213,7 @@ Suggestions and contributions are always welcome!
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
