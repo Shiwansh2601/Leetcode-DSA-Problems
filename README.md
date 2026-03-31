@@ -121,6 +121,7 @@ Suggestions and contributions are always welcome!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -139,6 +140,7 @@ Suggestions and contributions are always welcome!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -147,6 +149,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0120-triangle/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
