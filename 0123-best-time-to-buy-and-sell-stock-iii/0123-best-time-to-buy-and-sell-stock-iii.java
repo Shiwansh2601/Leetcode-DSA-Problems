@@ -1,39 +1,38 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[] diff1=new int[n];
-        int[] diff2=new int[n];
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
-        int maxpro=0;
+        int[][][] dp=new int[n][2][3];
 
-        for(int i=0;i<n;i++)
-        {
-            min=Math.min(min,prices[i]);
-            int profit=prices[i]-min;
-            maxpro=Math.max(maxpro,profit);
-            diff1[i]=maxpro;
-
-        }
-        
-        maxpro=0;
         for(int i=n-1;i>=0;i--)
         {
-            max=Math.max(max,prices[i]);
-            int profit=max-prices[i];
-            maxpro=Math.max(maxpro,profit);
-            diff2[i]=maxpro;
-
+            for(int j=0;j<2;j++)
+            {
+                Arrays.fill(dp[i][j],-1);
+            }
         }
 
-        int res=0;
-        for(int i=0;i<n;i++)
-        {
-            res=Math.max(res,diff1[i]+diff2[i]);
-        }
-       
-       int edge=Math.max(diff1[n-1],diff2[0]);
+        return solve(0,0,2,prices,dp);
+    }
+
+
+    public int solve(int i,int f,int cap,int[] arr,int[][][] dp)
+    {
+        if(i==arr.length|| cap==0)
+        return 0;
+
+        if(dp[i][f][cap]!=-1)
+        return dp[i][f][cap];
         
-        return Math.max(res,edge);
+        int pro=0;
+        if(f==0)
+        {
+             pro= Math.max(-arr[i]+solve(i+1,1,cap,arr,dp),solve(i+1,0,cap,arr,dp));
+        }
+        else
+        {
+            pro= Math.max(arr[i]+solve(i+1,0,cap-1,arr,dp),solve(i+1,1,cap,arr,dp));
+        }
+
+        return dp[i][f][cap]=pro;
     }
 }
