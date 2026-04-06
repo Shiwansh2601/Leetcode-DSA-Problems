@@ -14,43 +14,24 @@
  * }
  */
 class Solution {
-    static class Treeinfo{
-        int ht;
-        int diem;
-
-        public Treeinfo(int h,int d)
-        {
-            this.ht=h;
-            this.diem=d;
-        }
-    }
     public int diameterOfBinaryTree(TreeNode root) {
         if(root==null)
         return 0;
 
+        int ld=findheight(root.left);
+        int rd=findheight(root.right);
 
-        return solve(root).diem-1;
+        int d1=diameterOfBinaryTree(root.left);
+        int d2=diameterOfBinaryTree(root.right);
+        return Math.max(ld+rd,Math.max(d1,d2));
+        
     }
 
-    public Treeinfo solve(TreeNode root)
+    public int findheight(TreeNode root)
     {
-         if(root==null)
-          return new Treeinfo(0,0);
+        if(root==null)
+        return 0;
 
-        Treeinfo ls=solve(root.left);
-         Treeinfo rs=solve(root.right);
-
-         int lh=ls.ht;
-         int rh=rs.ht;
-
-         int d1=ls.diem;
-         int d2=rs.diem;
-         int d3=lh+rh+1;
-
-         int d=Math.max(d3,Math.max(d1,d2));
-         int h=Math.max(lh,rh)+1;
-         return new Treeinfo(h,d);
-        
-    
+        return Math.max(findheight(root.left),findheight(root.right))+1;
     }
 }
