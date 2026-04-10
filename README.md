@@ -94,6 +94,7 @@ Suggestions and contributions are always welcome!
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
@@ -236,6 +238,7 @@ Suggestions and contributions are always welcome!
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +253,7 @@ Suggestions and contributions are always welcome!
 | [0543-diameter-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +281,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -299,6 +304,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
