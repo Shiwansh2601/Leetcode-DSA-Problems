@@ -80,6 +80,7 @@ Suggestions and contributions are always welcome!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
@@ -99,6 +100,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0210-course-schedule-ii/) | Medium |
@@ -226,6 +228,7 @@ Suggestions and contributions are always welcome!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
@@ -240,6 +243,7 @@ Suggestions and contributions are always welcome!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
