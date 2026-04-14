@@ -96,6 +96,7 @@ Suggestions and contributions are always welcome!
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Suggestions and contributions are always welcome!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ Suggestions and contributions are always welcome!
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +260,7 @@ Suggestions and contributions are always welcome!
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +313,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
