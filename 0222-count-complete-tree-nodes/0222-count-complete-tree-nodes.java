@@ -20,8 +20,35 @@ class Solution {
             return 0;
         }
 
-        int x=countNodes(root.left);
-        int y=countNodes(root.right);
-        return x+y+1;
+       int lh=lefth(root.left);
+       int rh=righth(root.right);
+       
+       if(lh==rh)
+       {
+           return (int)Math.pow(2,lh+1)-1;
+       }
+       else
+       {
+           int lc=countNodes(root.left);
+           int rc=countNodes(root.right);
+           
+           return lc+rc+1;
+       }
+    }
+
+    public int lefth(TreeNode root)
+    {
+        if(root==null)
+        return 0;
+        
+        return lefth(root.left)+1;
+    }
+    
+    public int righth(TreeNode root)
+    {
+        if(root==null)
+        return 0;
+        
+        return righth(root.right)+1;
     }
 }
