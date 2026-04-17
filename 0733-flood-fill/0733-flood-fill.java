@@ -1,29 +1,43 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int excolor=image[sr][sc];
-        int m=image.length;
-        int n=image[0].length;
-        boolean[][]vis=new boolean[m][n];
-        dfs(image,sr,sc,excolor,color,vis);
         
+        int n=image.length;
+        int m=image[0].length;
+
+        int original=image[sr][sc];
+
+        if(original==color) return image;
+       
+        Queue<int[]>q=new LinkedList<>();
+        q.add(new int[]{sr,sc});
+        image[sr][sc]=color;
+
+
+        int[] dr={-1,1,0,0};
+        int[] dc={0,0,-1,1};
+
+        while(q.size()>0)
+        {
+            int[] temp=q.remove();
+            int i=temp[0];
+            int j=temp[1];
+
+            for(int k=0;k<4;k++)
+            {
+                int ni=i+dr[k];
+                int nj=j+dc[k];
+
+                if(ni>=0 && nj>=0 && ni<n && nj<m && original==image[ni][nj]){
+                    
+                    image[ni][nj]=color;
+                    q.add(new int[]{ni,nj});
+
+                }
+            }
+
+
+        }
+
         return image;
     }
-     
-    public void dfs(int[][] image,int i,int j,int ex,int c,boolean[][] vis)
-    {
-         int m=image.length;
-        int n=image[0].length;
-        if(i<0||j<0||i>=m||j>=n||image[i][j]!=ex||vis[i][j])
-        return;
-
-        vis[i][j]=true;
-        image[i][j]=c;
-
-        dfs(image,i+1,j,ex,c,vis);
-        dfs(image,i,j+1,ex,c,vis);
-        dfs(image,i-1,j,ex,c,vis);
-        dfs(image,i,j-1,ex,c,vis);
-
-    }
-
 }
