@@ -15,7 +15,7 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        boolean[][] vis=new boolean[n][m];
+       
         Queue<Node>q=new LinkedList<>();
         for(int i=0;i<n;i++)
         {
@@ -24,7 +24,7 @@ class Solution {
                 if(grid[i][j]==2)
                 {
                     q.add(new Node(i,j,0));
-                    vis[i][j]=true;
+                    
                 }
             }
         }
@@ -38,27 +38,27 @@ class Solution {
             int time=curr.time;
             ans=Math.max(ans,time);
 
-            if(i-1>=0 && !vis[i-1][j] && grid[i-1][j]==1)
+            if(i-1>=0 && grid[i-1][j]==1)
             {
                 q.add(new Node(i-1,j,time+1));
-                vis[i-1][j]=true;
+                grid[i-1][j]=2;
             }
 
-             if(j-1>=0 && !vis[i][j-1] && grid[i][j-1]==1)
+             if(j-1>=0 && grid[i][j-1]==1)
             {
                 q.add(new Node(i,j-1,time+1));
-                vis[i][j-1]=true;
+                grid[i][j-1]=2;
             }
 
-             if(i+1<n && !vis[i+1][j] && grid[i+1][j]==1)
+             if(i+1<n &&  grid[i+1][j]==1)
             {
                 q.add(new Node(i+1,j,time+1));
-                vis[i+1][j]=true;
+                grid[i+1][j]=2;
             }
-             if(j+1<m && !vis[i][j+1] && grid[i][j+1]==1)
+             if(j+1<m &&  grid[i][j+1]==1)
             {
                 q.add(new Node(i,j+1,time+1));
-                vis[i][j+1]=true;
+                grid[i][j+1]=2;
             }
 
         }
@@ -67,7 +67,7 @@ class Solution {
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j]==1 && !vis[i][j])
+                if(grid[i][j]==1)
                 return -1;
             }
         }
