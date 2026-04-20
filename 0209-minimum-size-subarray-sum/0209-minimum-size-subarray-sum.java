@@ -7,21 +7,11 @@ class Solution {
         while (j < nums.length) {
 
             sum += nums[j];
-
-            if (sum >= target) {
-                int len = j - i + 1;
-                min = Math.min(min, len);
-            }
-            while (sum > target) {
+            while (sum >= target) {
+                min = Math.min(min, j-i+1);
                 sum -= nums[i++];
-                 
-                 if (sum >= target) {
-                int len = j - i + 1;
-                min = Math.min(min, len);
-            }
-            }
-           
 
+            }
             j++;
         }
 
