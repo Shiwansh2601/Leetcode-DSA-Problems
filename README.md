@@ -166,6 +166,7 @@ Suggestions and contributions are always welcome!
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -323,6 +324,7 @@ Suggestions and contributions are always welcome!
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ Suggestions and contributions are always welcome!
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
