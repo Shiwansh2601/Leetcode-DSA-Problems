@@ -9,12 +9,16 @@ class Solution {
 
         for (int i = 0; i < m; i++) {
             minW = Math.min(minW, startW[i] + durW[i]);
-            res = Math.min(res, Math.max(minL, startW[i]) + durW[i]);
+
         }
 
         for (int i = 0; i < n; i++)
             res = Math.min(res, Math.max(minW, startL[i]) + durL[i]);
 
+        for (int i = 0; i < m; i++) {
+
+            res = Math.min(res, Math.max(minL, startW[i]) + durW[i]);
+        }
         return res;
     }
 }
