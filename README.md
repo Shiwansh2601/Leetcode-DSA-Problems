@@ -169,6 +169,7 @@ Suggestions and contributions are always welcome!
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@ Suggestions and contributions are always welcome!
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@ Suggestions and contributions are always welcome!
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +339,7 @@ Suggestions and contributions are always welcome!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,4 +392,5 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
