@@ -168,6 +168,7 @@ Suggestions and contributions are always welcome!
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -281,6 +282,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -302,6 +304,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
@@ -371,6 +374,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
