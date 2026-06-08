@@ -137,6 +137,7 @@ Suggestions and contributions are always welcome!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0120-triangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0120-triangle/) | Medium |
@@ -370,6 +371,7 @@ Suggestions and contributions are always welcome!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
