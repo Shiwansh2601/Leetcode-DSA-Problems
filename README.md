@@ -173,6 +173,7 @@ Suggestions and contributions are always welcome!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -407,6 +408,7 @@ Suggestions and contributions are always welcome!
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
