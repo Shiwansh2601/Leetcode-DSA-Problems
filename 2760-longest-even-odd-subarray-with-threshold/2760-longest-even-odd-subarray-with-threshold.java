@@ -2,23 +2,26 @@ class Solution {
     public int longestAlternatingSubarray(int[] nums, int threshold) {
         
         int res=0;
-        for(int i=0;i<nums.length;i++)
+        int i=0;
+        while(i<nums.length)
         {
             if(nums[i]%2==0 && nums[i]<=threshold)
-            {
+            {  
                 int curr=1;
-                for(int j=i+1;j<nums.length;j++)
-                {
-                    if(nums[j-1]%2!=nums[j]%2  && nums[j]<=threshold)
-                     curr++;
-                    else
-                      break;
-                }
-
+               while(i+1<nums.length && nums[i]%2!=nums[i+1]%2 && nums[i+1]<=threshold)
+               {
+                curr++;
                 res=Math.max(res,curr);
+                i++;
+               }
+
+               res=Math.max(res,curr);
             }
+            
+            i++;
         }
 
+    
         return res;
     }
 }
