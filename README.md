@@ -154,6 +154,7 @@ Suggestions and contributions are always welcome!
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -270,6 +271,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0476-number-complement/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -403,6 +405,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
