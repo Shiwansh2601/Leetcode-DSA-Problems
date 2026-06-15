@@ -268,6 +268,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0476-number-complement](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0476-number-complement/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
