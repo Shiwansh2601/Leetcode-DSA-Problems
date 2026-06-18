@@ -8,70 +8,63 @@
  * }
  */
 class Solution {
+
+    List<Integer>list=new ArrayList<>();
+        List<TreeNode>ntrpath= new ArrayList<>();
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         
-
-        Map<Integer, ArrayList<Integer>> map = new HashMap<>();
-
-        buildmap(root,-1, map);
-        Set<Integer>set=new HashSet<>();
-        List<Integer>ans=new ArrayList<>();
-        Queue<Integer>q=new LinkedList<>();
-        q.add(target.val);
-
-        while(k>0  && !q.isEmpty())
-        {
-            
-            
-            int size=q.size();
-
-            for(int i=0;i<size;i++)
-            {
-                int curr=q.poll();
-                set.add(curr);
-
-                for(int nei:map.get(curr))
-                {
-                    if(!set.contains(nei))
-                    {
-                        q.add(nei);
-                    }
-                }
-            }
-            k--;
-         }
-
-         while(!q.isEmpty())
+        
+         helper1(root,target);
+         
+         int breaker=-1;
+         for(int i=0;i<ntrpath.size();i++)
          {
-            ans.add(q.poll());
+            if(i>0)
+            {
+                breaker=ntrpath.get(i-1).val;
+            }
+            helper2(ntrpath.get(i),breaker,k-i);
+         }
+        
+         return list;
+    }
+     
+     public void helper2(TreeNode root,int b,int k)
+     {
+         if(k<0||root==null||root.val==b) return;
+
+         if(k==0)
+         {
+            list.add(root.val);
          }
 
-         return ans;
-    }
+         helper2(root.left,b,k-1);
+         helper2(root.right,b,k-1);
 
-     public void buildmap(TreeNode root, int par,Map<Integer, ArrayList<Integer>> map) {
 
-       if(root==null)
-       return;
 
-       map.put(root.val,new ArrayList<>());
+     }
+    
+    public boolean helper1(TreeNode root,TreeNode x)
+    {
+         if(root==null)return false;
+         else if(root==x)
+         {
+            ntrpath.add(root);
+            return true;
+         }
+         else if(helper1(root.left,x))
+         {
+            ntrpath.add(root);
+            return true;
+         }
+         else if(helper1(root.right,x))
+         {
+            ntrpath.add(root);
+            return true;
+         }
+         else 
+         return false;
 
-       if(par!=-1)
-       {
-          map.get(root.val).add(par);
-       }
-
-       if(root.left!=null)
-       {
-           map.get(root.val).add(root.left.val);
-       }
-
-       if(root.right!=null)
-       {
-           map.get(root.val).add(root.right.val);
-       }
-
-       buildmap(root.left,root.val,map);
-       buildmap(root.right,root.val,map);
     }
 }
