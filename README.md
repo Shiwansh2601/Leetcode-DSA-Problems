@@ -101,6 +101,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
@@ -122,6 +123,7 @@ Suggestions and contributions are always welcome!
 | [0802-find-eventual-safe-states](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -299,6 +301,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -323,6 +326,7 @@ Suggestions and contributions are always welcome!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
