@@ -14,66 +14,59 @@
  * }
  */
 class Solution {
+    int max=0;
+    List<TreeNode>path=new ArrayList<>();
 
     public int amountOfTime(TreeNode root, int start) {
-        if (root.left == null && root.right == null)
-            return 0;
-
-        Map<Integer, ArrayList<Integer>> map = new HashMap<>();
-
-        buildmap(root,-1, map);
-        int ans=-1;
-
-        Queue<Integer>q=new LinkedList<>();
-        Set<Integer>set=new HashSet<>();
-        q.add(start);
-        while(!q.isEmpty())
-        {
-            int size=q.size();
-            for(int i=0;i<size;i++)
+        
+        helper1(root,start); //creating node to root path
+        
+        int blocker=-1;
+        for(int i=0;i<path.size();i++)
+        {   
+            if(i>0)
             {
-                int curr=q.remove();
-                set.add(curr);
-
-                for(int j=0;j<map.get(curr).size();j++)
-                {
-                    int v=map.get(curr).get(j);
-                    if(!set.contains(v))
-                    {
-                        q.add(v);
-                    }
-                }
-
+                blocker=path.get(i-1).val;
             }
-            ans++;
+
+            helper2(path.get(i),blocker,i);
         }
 
-      return ans;
+        return max;
     }
+      
+      public void helper2(TreeNode root,int b,int t)
+      {
+          if(root==null||root.val==b)return ;
 
-    public void buildmap(TreeNode root, int par,Map<Integer, ArrayList<Integer>> map) {
+          max=Math.max(max,t);
 
-       if(root==null)
-       return;
+          helper2(root.left,b,t+1);
+          helper2(root.right,b,t+1);
+      }
+    public boolean helper1(TreeNode root,int s)
+    {
+        if(root==null)
+        return false;
+        else if(root.val==s)
+        {
+            path.add(root);
+            return true;
+        }
+        else if(helper1(root.left,s))
+        {
+            path.add(root);
+            return true;
+        }
+        else if(helper1(root.right,s))
+        {
+            path.add(root);
+            return true;
+        }
+        else 
+         return false;
+        
+        
 
-       map.put(root.val,new ArrayList<>());
-
-       if(par!=-1)
-       {
-          map.get(root.val).add(par);
-       }
-
-       if(root.left!=null)
-       {
-           map.get(root.val).add(root.left.val);
-       }
-
-       if(root.right!=null)
-       {
-           map.get(root.val).add(root.right.val);
-       }
-
-       buildmap(root.left,root.val,map);
-       buildmap(root.right,root.val,map);
     }
 }
