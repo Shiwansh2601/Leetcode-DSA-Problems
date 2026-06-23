@@ -166,6 +166,7 @@ Suggestions and contributions are always welcome!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -217,6 +218,7 @@ Suggestions and contributions are always welcome!
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -400,6 +402,7 @@ Suggestions and contributions are always welcome!
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
