@@ -223,6 +223,7 @@ Suggestions and contributions are always welcome!
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -350,6 +351,7 @@ Suggestions and contributions are always welcome!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
