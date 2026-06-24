@@ -184,6 +184,7 @@ Suggestions and contributions are always welcome!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +448,7 @@ Suggestions and contributions are always welcome!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
