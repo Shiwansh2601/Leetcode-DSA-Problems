@@ -154,6 +154,7 @@ Suggestions and contributions are always welcome!
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -191,6 +192,7 @@ Suggestions and contributions are always welcome!
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
@@ -213,6 +215,7 @@ Suggestions and contributions are always welcome!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0337-house-robber-iii/) | Medium |
