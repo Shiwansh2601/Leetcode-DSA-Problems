@@ -1,24 +1,22 @@
 class Solution {
     public int numTrees(int n) {
-        int[] dp=new int[n+1];
-        dp[0]=1;
-        dp[1]=1;
+        long val=ncr(2*n,n);
+        return (int)(val/(n+1));
+    }
 
-        if(n==1)
-        return 1;
+    public long ncr(int n,int r)
+    {
+        if(r>n-r)
+        r=n-r;
+        long ans=1L;
 
-
-        for(int i=2;i<=n;i++)
+        for(int i=0;i<r;i++)
         {
-            int temp=0;
+            ans*=(n-i);
 
-            for(int k1=0,k2=i-1;k1<=i-1 && k2>=0;k1++,k2--)
-            {
-                temp+=dp[k1]*dp[k2];
-            }
-            dp[i]=temp;
+            ans/=(i+1);
         }
 
-        return dp[n];
+        return ans;
     }
 }
