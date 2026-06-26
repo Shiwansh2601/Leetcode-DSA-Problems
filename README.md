@@ -359,6 +359,7 @@ Suggestions and contributions are always welcome!
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +452,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
