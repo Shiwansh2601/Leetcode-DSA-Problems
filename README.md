@@ -350,6 +350,7 @@ Suggestions and contributions are always welcome!
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -375,6 +376,7 @@ Suggestions and contributions are always welcome!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -408,6 +410,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
