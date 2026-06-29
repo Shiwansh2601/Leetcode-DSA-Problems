@@ -10,7 +10,7 @@ class Solution {
             {
                if(i==0||j==0||i==m-1||j==n-1)
                {
-                   if(!vis[i][j] &&grid[i][j]==1)
+                   if(!vis[i][j] && grid[i][j]==1)
                    dfs(i,j,vis,grid);
                }
             }
