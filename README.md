@@ -459,6 +459,7 @@ Suggestions and contributions are always welcome!
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2769-find-the-maximum-achievable-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
