@@ -178,6 +178,7 @@ Suggestions and contributions are always welcome!
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -416,6 +417,7 @@ Suggestions and contributions are always welcome!
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
