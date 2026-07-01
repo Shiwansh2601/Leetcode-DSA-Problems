@@ -161,6 +161,7 @@ Suggestions and contributions are always welcome!
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -228,6 +229,7 @@ Suggestions and contributions are always welcome!
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -261,6 +263,7 @@ Suggestions and contributions are always welcome!
 | [0209-minimum-size-subarray-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -380,6 +383,7 @@ Suggestions and contributions are always welcome!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -415,6 +419,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
