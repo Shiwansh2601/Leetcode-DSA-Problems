@@ -1,6 +1,8 @@
 class Solution {
     public int longestEqualSubarray(List<Integer> nums, int k) {
-        
+        if (nums.isEmpty())
+            return 0;
+
         HashMap<Integer,Integer>map=new HashMap<>();
         int ans=0;
         int sum=0;
