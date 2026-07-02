@@ -145,6 +145,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0041-first-missing-positive](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -446,6 +447,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
