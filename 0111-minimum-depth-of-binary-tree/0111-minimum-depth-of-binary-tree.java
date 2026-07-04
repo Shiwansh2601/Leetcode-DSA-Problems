@@ -17,12 +17,29 @@ class Solution {
     public int minDepth(TreeNode root) {
         if(root==null)return 0;
 
-        if(root.left==null && root.right==null)return 1;
-        
-        int L=root.left!=null?minDepth(root.left):Integer.MAX_VALUE;
-        int R=root.right!=null?minDepth(root.right):Integer.MAX_VALUE;
+        Queue<TreeNode>que=new LinkedList<>();
+        que.offer(root);
 
+        int depth=1;
+        while(!que.isEmpty())
+        {
+            int s=que.size();
 
-        return 1+Math.min(L,R);
+            while(s>0)
+            {
+                TreeNode curr=que.poll();
+
+                if(curr.left==null && curr.right==null)return depth;
+
+                if(curr.left!=null)que.offer(curr.left);
+                if(curr.right!=null)que.offer(curr.right);
+
+                s--;
+            }
+
+            depth++;
+        }
+
+        return -1;
     }
 }
