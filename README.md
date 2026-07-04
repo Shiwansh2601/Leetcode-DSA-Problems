@@ -77,6 +77,7 @@ Suggestions and contributions are always welcome!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -109,6 +110,7 @@ Suggestions and contributions are always welcome!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -319,6 +321,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -346,6 +349,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
