@@ -199,6 +199,7 @@ Suggestions and contributions are always welcome!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -471,6 +472,7 @@ Suggestions and contributions are always welcome!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Stack
@@ -507,6 +509,7 @@ Suggestions and contributions are always welcome!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
