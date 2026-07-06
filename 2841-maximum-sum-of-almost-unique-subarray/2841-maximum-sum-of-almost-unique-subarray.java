@@ -16,13 +16,13 @@ class Solution {
                 if(map.size()>=m)
                 ans=Math.max(ans,sum);
                 
-                 
-                map.put(nums.get(i),map.getOrDefault(nums.get(i),0)-1);
+                int n=nums.get(i);
+                map.put(n,map.getOrDefault(n,0)-1);
 
-                if(map.get(nums.get(i))==0)
-                map.remove(nums.get(i));
+                if(map.get(n)==0)
+                map.remove(n);
 
-                sum-=(long)nums.get(i);
+                sum-=(long)n;
                 i++;
             }
 
