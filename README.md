@@ -201,6 +201,7 @@ Suggestions and contributions are always welcome!
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -471,6 +472,7 @@ Suggestions and contributions are always welcome!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +509,7 @@ Suggestions and contributions are always welcome!
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
