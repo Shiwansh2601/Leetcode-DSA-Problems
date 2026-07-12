@@ -190,6 +190,7 @@ Suggestions and contributions are always welcome!
 | [1052-grumpy-bookstore-owner](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -429,6 +430,7 @@ Suggestions and contributions are always welcome!
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -472,6 +474,7 @@ Suggestions and contributions are always welcome!
 | [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
