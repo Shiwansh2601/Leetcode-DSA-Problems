@@ -158,6 +158,7 @@ Suggestions and contributions are always welcome!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -486,6 +487,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -502,6 +504,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
