@@ -539,6 +539,7 @@ Suggestions and contributions are always welcome!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Simulation
