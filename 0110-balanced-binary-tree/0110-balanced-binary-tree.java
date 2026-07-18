@@ -16,7 +16,7 @@
 class Solution {
    static boolean check=true;
     public boolean isBalanced(TreeNode root) {
-        check=true;
+       check=true; 
         solve(root);
         return check;
     }
