@@ -161,6 +161,7 @@ Suggestions and contributions are always welcome!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
@@ -241,6 +242,7 @@ Suggestions and contributions are always welcome!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
