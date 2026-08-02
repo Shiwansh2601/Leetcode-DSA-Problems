@@ -1,22 +1,27 @@
 class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
-        int[] dp=new int[n];
+        
 
         // Initialization............
-        dp[0]=nums[0];
-        if(n>1)
-        dp[1]=Math.max(dp[0],nums[1]);
+        int a=nums[0];
+
+        if(n==1)return a;
+        
+        int b=Math.max(a,nums[1]);
 
         for(int i=2;i<n;i++)
         {
-            int take=nums[i]+dp[i-2];
-            int ntake=dp[i-1];
+            int take=nums[i]+a;
+            int ntake=b;
 
-            dp[i]=Math.max(take,ntake);
+            int c=Math.max(nums[i]+a,b);
+
+            a=b;
+            b=c;
         }
 
-        return dp[n-1];
+        return b;
        
     }
 
