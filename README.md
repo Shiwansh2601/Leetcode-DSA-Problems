@@ -74,6 +74,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Depth-First Search
@@ -175,6 +176,7 @@ Suggestions and contributions are always welcome!
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
+| [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -251,6 +253,7 @@ Suggestions and contributions are always welcome!
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -560,4 +563,12 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
