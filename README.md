@@ -74,6 +74,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@ Suggestions and contributions are always welcome!
 | [0476-number-complement](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ Suggestions and contributions are always welcome!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
