@@ -76,6 +76,7 @@ Suggestions and contributions are always welcome!
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ Suggestions and contributions are always welcome!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -266,6 +268,7 @@ Suggestions and contributions are always welcome!
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +449,7 @@ Suggestions and contributions are always welcome!
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Design
@@ -491,6 +495,7 @@ Suggestions and contributions are always welcome!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Stack
@@ -518,6 +523,7 @@ Suggestions and contributions are always welcome!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -571,4 +577,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 <!---LeetCode Topics End-->
