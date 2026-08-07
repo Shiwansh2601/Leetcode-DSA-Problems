@@ -5,16 +5,17 @@ class Solution {
         if(s.length()>12)
         return ans;
 
-        solve(s,0,0,"");
+        solve(s,0,0,new StringBuilder());
         return ans;
     }
 
-    public void solve(String s,int i,int p,String curr)
+    public void solve(String s,int i,int p,StringBuilder curr)
     {
         int n=s.length();
         if(i==n && p==4)
-        {
-            ans.add(curr.substring(0,curr.length()-1));
+        {   
+            curr.deleteCharAt(curr.length()-1);
+            ans.add(curr.toString());
             return;
         }
         
@@ -26,20 +27,31 @@ class Solution {
 
         if(i != n && p == 4)
          return;
+        
+        int len=curr.length();
 
         if(i+1<=n)
         {
-            solve(s,i+1,p+1,curr+s.substring(i,i+1)+'.');
+            curr.append(s,i,i+1);
+            curr.append('.');
+            solve(s,i+1,p+1,curr);
+            curr.setLength(len);
         }
 
         if(i+2<=n && isValid(s.substring(i,i+2)))
         {
-            solve(s,i+2,p+1,curr+s.substring(i,i+2)+'.');
+            curr.append(s,i,i+2);
+            curr.append('.');
+            solve(s,i+2,p+1,curr);
+            curr.setLength(len);
         }
 
         if(i+3<=n && isValid(s.substring(i,i+3)))
         {
-            solve(s,i+3,p+1,curr+s.substring(i,i+3)+'.');
+           curr.append(s,i,i+3);
+            curr.append('.');
+            solve(s,i+3,p+1,curr);
+            curr.setLength(len);
         }
     }
 
