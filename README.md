@@ -74,6 +74,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
+| [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
@@ -83,6 +84,7 @@ Suggestions and contributions are always welcome!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -160,6 +162,7 @@ Suggestions and contributions are always welcome!
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0120-triangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -226,6 +229,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
@@ -404,6 +408,7 @@ Suggestions and contributions are always welcome!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
