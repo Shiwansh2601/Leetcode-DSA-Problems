@@ -75,6 +75,7 @@ Suggestions and contributions are always welcome!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
@@ -409,6 +410,7 @@ Suggestions and contributions are always welcome!
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
