@@ -5,7 +5,7 @@ class Solution {
         
           int m=board.length;
           int n=board[0].length;
-          boolean[][] vis=new boolean[m][n];
+         
 
           for(int i=0;i<m;i++)
           {
@@ -14,7 +14,7 @@ class Solution {
                 if(ans)
                 return ans;
 
-                solve(i,j,0,board,vis,word);
+                solve(i,j,0,board,word);
     
             }
           }
@@ -23,13 +23,13 @@ class Solution {
           return ans;
     }
 
-    public void solve(int i,int j,int k,char[][] board ,boolean[][] vis,String word)
+    public void solve(int i,int j,int k,char[][] board,String word)
     {
         int m=board.length;
         int n=board[0].length;
 
 
-        if(i<0||j<0|| i>=m||j>=n|| vis[i][j] || k>=word.length() || word.charAt(k)!=board[i][j])
+        if(i<0||j<0|| i>=m||j>=n||board[i][j]=='#' || k>=word.length() || word.charAt(k)!=board[i][j])
         return;
 
         if(k==word.length()-1)
@@ -38,13 +38,15 @@ class Solution {
              return;
          }
 
-         vis[i][j]=true;
-         solve(i+1,j,k+1,board,vis,word);
-         solve(i,j+1,k+1,board,vis,word);
-         solve(i-1,j,k+1,board,vis,word);
-         solve(i,j-1,k+1,board,vis,word);
+         char temp=board[i][j];
+         board[i][j]='#';
 
-         vis[i][j]=false;
+         solve(i+1,j,k+1,board,word);
+         solve(i,j+1,k+1,board,word);
+         solve(i-1,j,k+1,board,word);
+         solve(i,j-1,k+1,board,word);
+ 
+        board[i][j]=temp;
 
     }
 }
