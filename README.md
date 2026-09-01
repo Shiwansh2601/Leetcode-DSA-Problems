@@ -201,6 +201,7 @@ Suggestions and contributions are always welcome!
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
@@ -309,6 +310,7 @@ Suggestions and contributions are always welcome!
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -330,6 +332,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Shortest Path
@@ -484,6 +487,7 @@ Suggestions and contributions are always welcome!
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -554,6 +558,7 @@ Suggestions and contributions are always welcome!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -607,6 +612,7 @@ Suggestions and contributions are always welcome!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -615,5 +621,6 @@ Suggestions and contributions are always welcome!
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
