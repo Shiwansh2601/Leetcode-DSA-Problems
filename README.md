@@ -158,6 +158,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0018-4sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
@@ -451,6 +452,7 @@ Suggestions and contributions are always welcome!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
@@ -561,6 +563,7 @@ Suggestions and contributions are always welcome!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
