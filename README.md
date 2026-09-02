@@ -73,6 +73,7 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -159,6 +160,7 @@ Suggestions and contributions are always welcome!
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0018-4sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0047-permutations-ii/) | Medium |
@@ -232,6 +234,7 @@ Suggestions and contributions are always welcome!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
@@ -506,6 +509,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
@@ -623,4 +627,12 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
