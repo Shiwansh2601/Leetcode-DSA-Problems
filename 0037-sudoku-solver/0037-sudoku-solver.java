@@ -1,71 +1,62 @@
 class Solution {
-    public boolean isSafe(char[][] board,int row,int col,char dig)
+
+    public boolean isValid(char[][] board,int r,int c,char ch)
     {
         for(int i=0;i<9;i++)
         {
-            if(board[row][i]==dig)
+            if(board[r][i]==ch)
+            return false;
+
+            if(board[i][c]==ch)
             return false;
         }
+
+
+        int sr=(r/3)*3;
+        int sc=(c/3)*3;
+
+
+        for(int k=0;k<3;k++)
+        {
+            for(int l=0;l<3;l++)
+            {
+                if(board[k+sr][l+sc]==ch)
+                return false;
+            }
+
+        }
+
+        return true;
+    }
+    public boolean solve(char[][] board)
+    {
 
         for(int i=0;i<9;i++)
         {
-            if(board[i][col]==dig)
-            return false;
-        }
-
-        int sr=(row/3)*3;
-        int sc=(col/3)*3;
-
-        for(int i=sr;i<=sr+2;i++)
-        {
-            for(int j=sc;j<=sc+2;j++)
+            for(int j=0;j<9;j++)
             {
-                if(board[i][j]==dig)
-                return false;
+                if(board[i][j]=='.')
+                {
+                    for(char d='1';d<='9';d++)
+                    {
+                        if(isValid(board,i,j,d))
+                        {
+                            board[i][j]=d;
+                            if(solve(board))
+                            return true;
+
+                            board[i][j]='.';
+
+                        }
+                    }
+                    return false;
+                }
             }
         }
 
         return true;
     }
-    public boolean helper(char[][] board,int row,int col)
-    {
-        if(row==9)
-        {
-            return true;
-        }
-
-        int nextr=row;
-        int nextc=col+1;
-        if(nextc==9)
-        {
-            nextr=row+1;
-            nextc=0;
-        }
-
-        if(board[row][col]!='.')
-        {
-             return helper(board,nextr,nextc);
-        }
-    
-        
-        for(char i='1';i<='9';i++)
-        {
-           if(isSafe(board,row,col,i))
-           {
-             board[row][col]=i;
-           
-            if(helper(board,nextr,nextc))
-            return true;
-
-            board[row][col]='.';
-
-           }
-        }
-
-        return false;
-        
-    }
     public void solveSudoku(char[][] board) {
-        helper(board,0,0);
+        solve(board);
     }
 }
