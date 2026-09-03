@@ -207,6 +207,7 @@ Suggestions and contributions are always welcome!
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -284,6 +285,7 @@ Suggestions and contributions are always welcome!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -607,10 +609,12 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
