@@ -205,6 +205,7 @@ Suggestions and contributions are always welcome!
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
@@ -286,6 +287,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -613,12 +615,14 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+| [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
+| [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
