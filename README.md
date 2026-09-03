@@ -208,6 +208,7 @@ Suggestions and contributions are always welcome!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
@@ -251,6 +252,7 @@ Suggestions and contributions are always welcome!
 | [0695-max-area-of-island](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -291,6 +293,7 @@ Suggestions and contributions are always welcome!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
