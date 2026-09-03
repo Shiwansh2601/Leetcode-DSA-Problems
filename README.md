@@ -254,6 +254,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0062-unique-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
@@ -548,6 +549,7 @@ Suggestions and contributions are always welcome!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
@@ -612,6 +614,7 @@ Suggestions and contributions are always welcome!
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0062-unique-paths/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
