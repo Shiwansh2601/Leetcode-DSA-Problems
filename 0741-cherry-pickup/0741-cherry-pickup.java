@@ -36,15 +36,14 @@ class Solution {
                 return dp[t][r1][r2];
               }
 
-              grid[r1][c1]=0;
+              
 
         }
         else
         {
             cherry+=d1+d2;
 
-            grid[r1][c1]=0;
-            grid[r2][c2]=0;
+            
 
         }
 
@@ -54,8 +53,7 @@ class Solution {
         int p3=solve(t+1,r1,r2+1,grid,dp);
         int p4=solve(t+1,r1,r2,grid,dp);
         
-            grid[r1][c1]=d1;
-            grid[r2][c2]=d2;
+            
        
         return dp[t][r1][r2]=cherry+Math.max(p1,Math.max(p2,Math.max(p3,p4)));
     }
