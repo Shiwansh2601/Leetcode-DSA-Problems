@@ -265,6 +265,7 @@ Suggestions and contributions are always welcome!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0062-unique-paths/) | Medium |
@@ -442,6 +443,7 @@ Suggestions and contributions are always welcome!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0072-edit-distance/) | Medium |
@@ -529,6 +531,7 @@ Suggestions and contributions are always welcome!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
