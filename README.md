@@ -175,6 +175,7 @@ Suggestions and contributions are always welcome!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0174-dungeon-game](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -246,6 +247,7 @@ Suggestions and contributions are always welcome!
 | [0074-search-a-2d-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [0174-dungeon-game](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -274,6 +276,7 @@ Suggestions and contributions are always welcome!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0213-house-robber-ii/) | Medium |
