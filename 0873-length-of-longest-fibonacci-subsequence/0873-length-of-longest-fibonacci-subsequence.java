@@ -1,9 +1,14 @@
 class Solution {
      Map<Integer,Integer>index=new HashMap<>();
     int[] arr;
+    Integer[][] dp;
     public int lenLongestFibSubseq(int[] arr) {
         int n=arr.length;
         this.arr=arr;
+        
+        dp=new Integer[n][n];
+
+        
 
         for(int i=0;i<n;i++)
         {
@@ -31,6 +36,10 @@ class Solution {
 
     public int solve(int j,int k)
     {
+
+        if(dp[j][k]!=null)return dp[j][k];
+
+
         int x= arr[k]-arr[j];
 
         if(index.containsKey(x) && index.get(x)<j)
