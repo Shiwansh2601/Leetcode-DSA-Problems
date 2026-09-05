@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++)
         Arrays.fill(dp[i],-1);
 
-        return solve(0,-1,nums,dp);
+        return solve(0,n,nums,dp);
     }
 
     public int solve(int i,int prev,int[] nums,int[][] dp)
@@ -14,18 +14,18 @@ class Solution {
         return 0;
 
 
-        if(dp[i][prev+1]!=-1)
-        return dp[i][prev+1];
+        if(dp[i][prev]!=-1)
+        return dp[i][prev];
 
         int take=0;
         int nontake=0;
 
-        if(prev==-1||nums[i]>nums[prev])
+        if(prev==nums.length ||nums[i]>nums[prev])
         take=1+solve(i+1,i,nums,dp);
 
         nontake=solve(i+1,prev,nums,dp);
 
-        return dp[i][prev+1]=Math.max(take,nontake);
+        return dp[i][prev]=Math.max(take,nontake);
 
     }
 }
