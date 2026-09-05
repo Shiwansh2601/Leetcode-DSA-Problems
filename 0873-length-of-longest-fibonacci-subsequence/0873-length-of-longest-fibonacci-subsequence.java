@@ -46,8 +46,8 @@ class Solution {
         {
             int i=index.get(x);
 
-            return solve(i,j)+1;
+            return dp[j][k]=solve(i,j)+1;
         }
-        return 2;
+        return dp[j][k]=2;
     }
 }
