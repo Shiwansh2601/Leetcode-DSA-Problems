@@ -227,6 +227,7 @@ Suggestions and contributions are always welcome!
 | [1463-cherry-pickup-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -320,6 +321,7 @@ Suggestions and contributions are always welcome!
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Union-Find
@@ -516,6 +518,7 @@ Suggestions and contributions are always welcome!
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -703,6 +706,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
