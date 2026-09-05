@@ -306,6 +306,7 @@ Suggestions and contributions are always welcome!
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -462,6 +463,7 @@ Suggestions and contributions are always welcome!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -672,4 +674,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
