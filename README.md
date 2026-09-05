@@ -233,6 +233,7 @@ Suggestions and contributions are always welcome!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -358,6 +359,7 @@ Suggestions and contributions are always welcome!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -367,6 +369,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -712,6 +715,7 @@ Suggestions and contributions are always welcome!
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
