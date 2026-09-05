@@ -237,6 +237,7 @@ Suggestions and contributions are always welcome!
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2865-beautiful-towers-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -570,6 +571,7 @@ Suggestions and contributions are always welcome!
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [2865-beautiful-towers-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -578,6 +580,7 @@ Suggestions and contributions are always welcome!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
