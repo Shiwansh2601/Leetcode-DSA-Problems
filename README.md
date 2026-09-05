@@ -204,6 +204,7 @@ Suggestions and contributions are always welcome!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
@@ -306,6 +307,7 @@ Suggestions and contributions are always welcome!
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -494,6 +496,7 @@ Suggestions and contributions are always welcome!
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
