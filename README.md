@@ -206,6 +206,7 @@ Suggestions and contributions are always welcome!
 | [0741-cherry-pickup](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -301,6 +302,7 @@ Suggestions and contributions are always welcome!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0845-longest-mountain-in-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -611,6 +613,7 @@ Suggestions and contributions are always welcome!
 | [0042-trapping-rain-water](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -682,4 +685,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
