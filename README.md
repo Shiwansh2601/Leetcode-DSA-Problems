@@ -678,4 +678,8 @@ Suggestions and contributions are always welcome!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
