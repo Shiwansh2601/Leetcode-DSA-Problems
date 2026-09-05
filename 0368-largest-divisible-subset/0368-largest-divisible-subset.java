@@ -10,7 +10,7 @@ class Solution {
 
         Arrays.fill(dp, 1);
         
-
+        int indx=0;
         int ans = 1;
 
         for (int i = 0; i < n; i++) {
@@ -30,15 +30,11 @@ class Solution {
                 }
             }
 
-            ans = Math.max(ans, dp[i]);
-        }
-
-        int indx=-1;
-
-        for(int i=0;i<n;i++)
-        {
-            if(dp[i]==ans)
-            indx=i;
+            if(dp[i]>ans)
+            {
+                ans=dp[i];
+                indx=i;
+            }
         }
 
 
