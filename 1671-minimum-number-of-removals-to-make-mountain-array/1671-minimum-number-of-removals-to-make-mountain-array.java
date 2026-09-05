@@ -12,13 +12,11 @@ class Solution {
 
         int ans = Integer.MAX_VALUE;
         for (int i = 0; i < nums.length; i++) {
-            if (dp[i] > 1 && dp2[i] > 1) {
-                if (dp[i] > 1 && dp2[i] > 1) {
+             if (dp[i] > 1 && dp2[i] > 1) {
                     int lr = (i + 1) - dp[i];
                     int rr = (n - i) - dp2[i];
                     ans = Math.min(ans, lr + rr);
                 }
-            }
         }
         return ans;
     }
