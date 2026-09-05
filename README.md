@@ -216,6 +216,7 @@ Suggestions and contributions are always welcome!
 | [0983-minimum-cost-for-tickets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1020-number-of-enclaves/) | Medium |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
@@ -312,6 +313,7 @@ Suggestions and contributions are always welcome!
 | [0931-minimum-falling-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -471,6 +473,7 @@ Suggestions and contributions are always welcome!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -509,6 +512,7 @@ Suggestions and contributions are always welcome!
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -560,6 +564,7 @@ Suggestions and contributions are always welcome!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -626,6 +631,7 @@ Suggestions and contributions are always welcome!
 | [0844-backspace-string-compare](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
