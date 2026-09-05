@@ -1,31 +1,52 @@
-class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int n=nums.length;
-        int[][] dp=new int[n][n+1];
-        for(int i=0;i<n;i++)
-        Arrays.fill(dp[i],-1);
+import java.util.*;
 
-        return solve(0,n,nums,dp);
+class Solution {
+
+    int[] nums;
+    int[][] memo;
+
+    public int lengthOfLIS(int[] nums) {
+
+        this.nums = nums;
+
+        int n = nums.length;
+
+        // prev = -1 is represented using n
+        memo = new int[n][n + 1];
+
+        for (int[] row : memo) {
+            Arrays.fill(row, -1);
+        }
+
+        return solve(0, n);
     }
 
-    public int solve(int i,int prev,int[] nums,int[][] dp)
-    {
-        if(i==nums.length)
-        return 0;
+    private int solve(int i, int prev) {
 
+        if (i == nums.length) {
+            return 0;
+        }
 
-        if(dp[i][prev]!=-1)
-        return dp[i][prev];
+        if (memo[i][prev] != -1) {
+            return memo[i][prev];
+        }
 
-        int take=0;
-        int nontake=0;
+        // Skip current element
+        int skip = solve(i + 1, prev);
 
-        if(prev==nums.length ||nums[i]>nums[prev])
-        take=1+solve(i+1,i,nums,dp);
+        // Take current element
+        int take = 0;
 
-        nontake=solve(i+1,prev,nums,dp);
+        if (
+            prev == nums.length ||
+            nums[i] > nums[prev]
+        ) {
 
-        return dp[i][prev]=Math.max(take,nontake);
+            take =
+                1 + solve(i + 1, i);
+        }
 
+        return memo[i][prev] =
+            Math.max(take, skip);
     }
 }
