@@ -224,6 +224,7 @@ Suggestions and contributions are always welcome!
 | [1052-grumpy-bookstore-owner](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -325,6 +326,7 @@ Suggestions and contributions are always welcome!
 | [1049-last-stone-weight-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -580,6 +582,7 @@ Suggestions and contributions are always welcome!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
