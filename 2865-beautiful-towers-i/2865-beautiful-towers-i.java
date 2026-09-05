@@ -7,18 +7,26 @@ class Solution {
         {  
             long sum=heights[k];
 
-            long cap=heights[k];
-            for(int i=k-1;i>=0;i--)
+            int i=k-1;
+            int max=heights[k];
+            while(i>=0)
             {
-                cap=Math.min(cap,heights[i]);
-                sum+=cap;
+                  
+                    max=Math.min(max,heights[i]);
+                    sum+=max;
+
+                
+                i--;
             }
 
-            cap=heights[k];
-            for(int i=k+1;i<heights.length;i++)
+            i=k+1;
+            max=heights[k];
+            while(i<heights.length)
             {
-                cap=Math.min(cap,heights[i]);
-                sum+=cap;
+                    max=Math.min(max,heights[i]);
+                    sum+=max;
+
+                i++;
             }
             if(sum>ans)
             ans=sum;
