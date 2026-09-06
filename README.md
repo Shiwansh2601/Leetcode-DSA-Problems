@@ -230,6 +230,7 @@ Suggestions and contributions are always welcome!
 | [1105-filling-bookcase-shelves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -338,6 +339,7 @@ Suggestions and contributions are always welcome!
 | [1105-filling-bookcase-shelves](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -373,6 +375,7 @@ Suggestions and contributions are always welcome!
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
@@ -541,6 +544,7 @@ Suggestions and contributions are always welcome!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
