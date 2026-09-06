@@ -3,9 +3,10 @@ class Solution {
     Integer[][] dp;
 
     public int maxCoins(int[] nums) {
-        dp=new Integer[303][303];
+      
         
          int n=nums.length;
+           dp=new Integer[n+2][n+2];
 
          arr=new int[nums.length+2];
          arr[0]=1;
