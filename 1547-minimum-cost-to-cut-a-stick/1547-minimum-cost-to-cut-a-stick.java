@@ -15,25 +15,31 @@ class Solution {
          {
             temp[i]=cuts[i-1];
          }
-        return solve(0,temp.length-1,temp,dp);
+        return solve(1,cuts.length,temp,dp);
     }
     public int solve(int i,int j,int[] arr,int[][] dp)
     {
-        if(j-i<2)
+        if(i>j)
         return 0;
 
         if(dp[i][j]!=-1)
         return dp[i][j];
         
         int res=Integer.MAX_VALUE;
-        
-        for(int indx=i+1;indx<=j-1;indx++)
+
+        for(int k=i;k<=j;k++)
         {
-           int curr=(arr[j]-arr[i])+solve(i,indx,arr,dp)+solve(indx,j,arr,dp);
+            int cost=arr[j+1]-arr[i-1];
 
-           res=Math.min(res,curr);
+            int l=solve(i,k-1,arr,dp);
+            int r=solve(k+1,j,arr,dp);
+
+            res=Math.min(res,cost+l+r);
+
+
+        
         }
-
+        
        return dp[i][j]=res;
     }
 }
