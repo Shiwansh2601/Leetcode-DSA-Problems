@@ -2,14 +2,23 @@ class Solution {
     String str;
     int n;
     Integer[] dp;
-    Boolean[][] pal;
+    boolean[][] pal;
     public int minCut(String s) {
         str=s;
         n=str.length();
         
-        pal=new Boolean[n][n];
+        pal=new boolean[n][n];
 
+         for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
 
+                if (str.charAt(i) == str.charAt(j) &&
+                    (j - i <= 2 || pal[i + 1][j - 1])) {
+
+                    pal[i][j] = true;
+                }
+            }
+        }
         dp=new Integer[n];
         return solve(0)-1;
     }
@@ -29,7 +38,7 @@ class Solution {
         {
             
 
-            if(isPos(i,j))
+            if(pal[i][j])
             {
                 int cost=1+solve(j+1);
 
@@ -42,16 +51,4 @@ class Solution {
         return min;
     }
 
-    public boolean isPos(int i,int j)
-    {
-        if(j==i)return true;
-
-         if(pal[i][j]!=null)return pal[i][j];
-
-
-        if(str.charAt(i)==str.charAt(j) && (j-i<=2 || isPos(i+1,j-1)))
-        return pal[i][j]=true;
-        else
-        return pal[i][j]=false;
-    }
 }
