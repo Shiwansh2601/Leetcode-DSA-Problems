@@ -291,6 +291,7 @@ Suggestions and contributions are always welcome!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -478,6 +479,7 @@ Suggestions and contributions are always welcome!
 | [0093-restore-ip-addresses](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
