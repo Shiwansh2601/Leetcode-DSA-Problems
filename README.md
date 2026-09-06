@@ -188,6 +188,7 @@ Suggestions and contributions are always welcome!
 | [0303-range-sum-query-immutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -303,6 +304,7 @@ Suggestions and contributions are always welcome!
 | [0221-maximal-square](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
