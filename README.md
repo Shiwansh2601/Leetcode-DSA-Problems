@@ -195,6 +195,7 @@ Suggestions and contributions are always welcome!
 | [0368-largest-divisible-subset](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0494-target-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0494-target-sum/) | Medium |
@@ -520,6 +521,7 @@ Suggestions and contributions are always welcome!
 | [0134-gas-station](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0134-gas-station/) | Medium |
 | [0409-longest-palindrome](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -539,6 +541,7 @@ Suggestions and contributions are always welcome!
 | [0242-valid-anagram](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
