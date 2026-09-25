@@ -1,34 +1,22 @@
 class Solution {
     public int jump(int[] nums) {
-        int count=0;
         int n=nums.length;
-        int maxreach=0;
-        int l=0;
-        int r=0;
+        int[] dp=new int[n];
 
-        while(l<n && r!=n-1)
+        Arrays.fill(dp,10000);
+
+        dp[0]=0;
+        for(int i=0;i<n;i++)
         {
-            int curr=0;
-
-            while( l<n && l<=r)
+            int j=1;
+             while(j+i<n && j<=nums[i])
             {
-                if((nums[l]+l)>curr)
-                curr=nums[l]+l;
-
-                l++;
+                dp[i+j]=Math.min(dp[i+j],dp[i]+1);
+                j++;
             }
-            if(curr>maxreach)
-            {
-                 count++; 
-                 maxreach=curr;
-
-                 if(maxreach>=n-1)
-                 return count;
-            }
-          
-            r=curr;
         }
 
-        return count;
+
+        return dp[n-1];
     }
 }
