@@ -204,6 +204,7 @@ Suggestions and contributions are always welcome!
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -320,6 +321,7 @@ Suggestions and contributions are always welcome!
 | [0516-longest-palindromic-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0542-01-matrix/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0740-delete-and-earn/) | Medium |
@@ -524,6 +526,7 @@ Suggestions and contributions are always welcome!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -544,6 +547,7 @@ Suggestions and contributions are always welcome!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0502-ipo/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -745,6 +749,7 @@ Suggestions and contributions are always welcome!
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Shiwansh2601/MY-DSA-Problems/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Enumeration
